@@ -14,7 +14,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: "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"
+          GITHUB_TOKEN: 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
           USERNAME: "xandner"
       - name: Commit & Push
         run: |
