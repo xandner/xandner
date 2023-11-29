@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [isee](https://isee.sisoog.com)
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **nodejs**
 
