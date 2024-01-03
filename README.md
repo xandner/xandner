@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/xander_ka" target="blank"><img src="https://img.shields.io/twitter/follow/xander_ka?logo=twitter&style=for-the-badge" alt="xander_ka" /></a> </p>
 
-- 🔭 I’m currently working on [isee](https://afrak.com)
+- 🔭 I’m currently working on [Afrak](https://afrak.com)
 
 - 🌱 I’m currently learning **Golang**
 
