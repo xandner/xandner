@@ -25,4 +25,4 @@
 
 <p width="50%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xandner&show_icons=true&langs_count=5&theme=merko" alt="xandner" /></p>
 
-[![xander's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xandner&theme=github-compact  )](https://github.com/xandner)
+[![xander's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xandner)](https://github.com/xandner/github-readme-activity-graph)
