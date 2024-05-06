@@ -23,6 +23,6 @@
       <img  src = "https://github-readme-stats.vercel.app/api?username=xandner&show_icons=true&theme=merko">
 </p>
 
-<p width="50%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xandner&show_icons=true&langs_count=5&theme=merko" alt="xandner" /></p>
+<p width="50%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xandner&show_icons=true&langs_count=8&theme=merko" alt="xandner" /></p>
 
 [![xander's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xandner&theme=github-compact)](https://github.com/xandner/github-readme-activity-graph)
