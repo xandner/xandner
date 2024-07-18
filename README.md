@@ -26,6 +26,11 @@
 <p width="50%">
       <img  src = "https://github-readme-stats.vercel.app/api?username=xandner&show_icons=true&theme=merko">
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xandner&show_icons=true&locale=en&layout=compact" alt="xandner" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xandner&show_icons=true&locale=en" alt="xandner" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xandner&" alt="xandner" /></p>
 
 <p width="50%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xandner&show_icons=true&langs_count=8&theme=merko" alt="xandner" /></p>
 
